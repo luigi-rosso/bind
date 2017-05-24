@@ -1,0 +1,22 @@
+{
+	"name": "bind",
+	"version": "1.0.0",
+	"description": "",
+	"main": "bind.js",
+	"scripts":
+	{
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository":
+	{
+		"type": "git",
+		"url": "git+https://github.com/luigi-rosso/bind.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs":
+	{
+		"url": "https://github.com/luigi-rosso/bind/issues"
+	},
+	"homepage": "https://github.com/luigi-rosso/bind#readme"
+}
